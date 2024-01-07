@@ -10,10 +10,10 @@ aliases:
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
 | [2557](Collection/2557.md) | [Hello World](https://www.acmicpc.net/problem/2557)<br> |
-| [1000](1000.md) | [A+B](https://www.acmicpc.net/problem/1000) |
-| [1001](1001.md) | [A-B](https://www.acmicpc.net/problem/1001) |
+| [1000](Collection/1000.md) | [A+B](https://www.acmicpc.net/problem/1000) |
+| [1001](Collection/1001.md) | [A-B](https://www.acmicpc.net/problem/1001) |
 | [10998](Collection/10998.md) | [AxB](https://www.acmicpc.net/problem/10998) |
-| [1008](1008.md) | [A/B](https://www.acmicpc.net/problem/1008) |
+| [1008](Collection/1008.md) | [A/B](https://www.acmicpc.net/problem/1008) |
 | [10869](Collection/10869.md) | [사칙연산](https://www.acmicpc.net/problem/10869) |
 | [10926](Collection/10926.md) | [??!](https://www.acmicpc.net/problem/10926) |
 | [18108](Collection/18108.md) | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) |
@@ -22,8 +22,7 @@ aliases:
 | [11382](Collection/11382.md) | [꼬마 정민](https://www.acmicpc.net/problem/11382) |
 | [10171](Collection/10171.md) | [고양이](https://www.acmicpc.net/problem/10171) |
 | [10172](Collection/10172.md) | [개](https://www.acmicpc.net/problem/10172) |
-|  |  |
-|  |  |
+
 
 ---
 # 2. 조건문

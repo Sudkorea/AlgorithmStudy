@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon/Collection/10172.md",
+                "file": "Baekjoon/Step.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon/Collection/10172.md",
+                "file": "Baekjoon/Step.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon/Collection/10172.md",
+                "file": "Baekjoon/Step.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon/Collection/10172.md"
+                "file": "Baekjoon/Step.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "8cd4d983b4d95d67",
   "lastOpenFiles": [
+    "Baekjoon/Collection/10172.md",
     "Baekjoon/Step.md",
     "Baekjoon/Collection/10171.md",
     "Baekjoon/Collection/11382.md",
@@ -209,7 +210,6 @@
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/2480.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/2525.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/2884.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/14681.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산",
     "AlgorithmStudy/백준 단계별로 풀어보기",
     "Excalidraw/AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산",
