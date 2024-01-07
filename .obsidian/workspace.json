@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/(문제 번호).md",
+                "file": "Baekjoon/Collection/1000.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/(문제 번호).md",
+                "file": "Baekjoon/Collection/1000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/(문제 번호).md",
+                "file": "Baekjoon/Collection/1000.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/(문제 번호).md"
+                "file": "Baekjoon/Collection/1000.md"
               }
             }
           },
@@ -187,10 +187,10 @@
   },
   "active": "7139d4bc0a539400",
   "lastOpenFiles": [
-    "Baekjoon/Collection/2557.md",
-    "Template/(문제 번호).md",
-    "Template",
     "Baekjoon/단계별로 풀어보기.md",
+    "Template/백준템플릿.md",
+    "Baekjoon/Collection/2557.md",
+    "Template",
     "[.md",
     "백준 단계별로 풀어보기/입출력과 사칙연산/무제 파일.md",
     "Baekjoon/Collection/1000.md",

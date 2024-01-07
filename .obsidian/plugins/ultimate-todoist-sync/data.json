@@ -574,7 +574,15 @@
       "todoistTasks": [],
       "todoistCount": 0
     },
-    "Template/(문제 번호).md": {
+    "Template/백준템플릿.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "Baekjoon/Collection/2557.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "Baekjoon/Collection/1000.md": {
       "todoistTasks": [],
       "todoistCount": 0
     }
