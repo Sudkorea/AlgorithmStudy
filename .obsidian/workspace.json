@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/백준템플릿.md",
+                "file": "Baekjoon/Collection/10172.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/백준템플릿.md",
+                "file": "Baekjoon/Collection/10172.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/백준템플릿.md",
+                "file": "Baekjoon/Collection/10172.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/백준템플릿.md"
+                "file": "Baekjoon/Collection/10172.md"
               }
             }
           },
@@ -180,9 +180,15 @@
   "active": "8cd4d983b4d95d67",
   "lastOpenFiles": [
     "Baekjoon/Step.md",
+    "Baekjoon/Collection/10171.md",
+    "Baekjoon/Collection/11382.md",
+    "Baekjoon/Collection/2588.md",
+    "Template/백준템플릿.md",
+    "AlgorithmStudy/Baekjoon/Step.md",
+    "AlgorithmStudy/Baekjoon",
+    "AlgorithmStudy",
     "Baekjoon/Collection/10430.md",
     "Baekjoon/Collection/1001.md",
-    "Template/백준템플릿.md",
     "Baekjoon/Collection/18108.md",
     "Baekjoon/Collection/10926.md",
     "Baekjoon/Collection/10869.md",
@@ -204,18 +210,12 @@
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/2525.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/2884.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/14681.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/2753.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/9498.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/1330.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/10869.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산",
     "AlgorithmStudy/백준 단계별로 풀어보기",
-    "AlgorithmStudy",
     "Excalidraw/AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산",
     "Excalidraw/AlgorithmStudy/백준 단계별로 풀어보기",
     "Excalidraw/AlgorithmStudy",
     "AlgorithmStudy/백준 단계별로 풀어보기/무제 폴더/무제 폴더",
-    "AlgorithmStudy/AlgorithmStudy",
     "공부를 합시다/스프링부트 항해일지.canvas",
     "개발 공부/자바 공부/Pasted image 20240102004059.png",
     "개발 공부/스프링부트 관련/Pasted image 20231213001740.png",
