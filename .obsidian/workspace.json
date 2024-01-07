@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon/단계별로 풀어보기.md.md",
+                "file": "백준템플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon/단계별로 풀어보기.md.md",
+                "file": "백준템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon/단계별로 풀어보기.md.md",
+                "file": "백준템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon/단계별로 풀어보기.md.md"
+                "file": "백준템플릿.md"
               }
             }
           },
@@ -172,20 +172,21 @@
       "random-note:랜덤 노트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "8cd4d983b4d95d67",
   "lastOpenFiles": [
     "Baekjoon/Collection/1001.md",
-    "Baekjoon/Collection/2480.md",
-    "Baekjoon/Collection/1008.md",
-    "Baekjoon/Collection/1000.md",
-    "Template/백준템플릿.md",
-    "Baekjoon/단계별로 풀어보기.md.md",
+    "Baekjoon/Step.md",
     "Baekjoon/Collection/2557.md",
+    "Baekjoon/Collection/1000.md",
+    "백준템플릿.md",
+    "Baekjoon/단계별로.md",
+    "Baekjoon/Collection/1008.md",
+    "Baekjoon/Collection/2480.md",
     "Template",
     "[.md",
     "백준 단계별로 풀어보기/입출력과 사칙연산/무제 파일.md",
@@ -207,7 +208,6 @@
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/10998.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/10171.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/2588.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/10430.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산",
     "AlgorithmStudy/백준 단계별로 풀어보기",
     "AlgorithmStudy",

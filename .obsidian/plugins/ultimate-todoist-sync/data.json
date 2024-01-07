@@ -570,15 +570,7 @@
       "todoistTasks": [],
       "todoistCount": 0
     },
-    "Template/백준템플릿.md": {
-      "todoistTasks": [],
-      "todoistCount": 0
-    },
     "Baekjoon/Collection/2557.md": {
-      "todoistTasks": [],
-      "todoistCount": 0
-    },
-    "Baekjoon/Collection/1000.md": {
       "todoistTasks": [],
       "todoistCount": 0
     },
@@ -586,7 +578,15 @@
       "todoistTasks": [],
       "todoistCount": 0
     },
-    "Baekjoon/단계별로 풀어보기.md.md": {
+    "Baekjoon/Collection/1000.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "Baekjoon/Step.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "백준템플릿.md": {
       "todoistTasks": [],
       "todoistCount": 0
     }
