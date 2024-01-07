@@ -1,0 +1,582 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Inbox",
+  "automaticSynchronizationInterval": 300,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2324941786",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "Inbox",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2324941786",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2324942261",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "스프링부트 습득 프로젝트",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2324942261",
+        "viewStyle": "list"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "7492820172",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2324941786",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "푸쉬업 (45+30)    ✅ 2023-12-11",
+        "description": "[도구모음/Daily notes 보관함/2023.12.11.md](obsidian://open?vault=Obsidian%20Vault&file=%EB%8F%84%EA%B5%AC%EB%AA%A8%EC%9D%8C/Daily%20notes%20%EB%B3%B4%EA%B4%80%ED%95%A8/2023.12.11.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47358395",
+        "createdAt": "2023-12-11T13:48:28.403220Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7492820172",
+        "duration": null,
+        "path": "도구모음/Daily notes 보관함/2023.12.11.md"
+      },
+      {
+        "id": "7496503272",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2324941786",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "푸쉬업+스쿼트 100+15  ✅ 2023-12-12",
+        "description": "[도구모음/Daily notes 보관함/2023.12.12.md](obsidian://open?vault=Obsidian%20Vault&file=%EB%8F%84%EA%B5%AC%EB%AA%A8%EC%9D%8C/Daily%20notes%20%EB%B3%B4%EA%B4%80%ED%95%A8/2023.12.12.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47358395",
+        "createdAt": "2023-12-12T14:44:52.525199Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7496503272",
+        "duration": null,
+        "path": "도구모음/Daily notes 보관함/2023.12.12.md"
+      },
+      {
+        "id": "7498227655",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2324941786",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "푸쉬업+스쿼트 15+15+20 /    ✅ 2023-12-13",
+        "description": "[도구모음/Daily notes 보관함/2023.12.13.md](obsidian://open?vault=Obsidian%20Vault&file=%EB%8F%84%EA%B5%AC%EB%AA%A8%EC%9D%8C/Daily%20notes%20%EB%B3%B4%EA%B4%80%ED%95%A8/2023.12.13.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47358395",
+        "createdAt": "2023-12-13T04:41:04.867665Z",
+        "due": {
+          "date": "2023-12-12",
+          "timezone": "Asia/Seoul",
+          "string": "2023-12-13 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2023-12-12T23:00:00Z"
+        },
+        "url": "https://todoist.com/showTask?id=7498227655",
+        "duration": null,
+        "path": "도구모음/Daily notes 보관함/2023.12.13.md"
+      },
+      {
+        "id": "7492756370",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2324941786",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "2장 공부하기     ✅ 2023-12-14",
+        "description": "[도구모음/Daily notes 보관함/2023.12.11.md](obsidian://open?vault=Obsidian%20Vault&file=%EB%8F%84%EA%B5%AC%EB%AA%A8%EC%9D%8C/Daily%20notes%20%EB%B3%B4%EA%B4%80%ED%95%A8/2023.12.11.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47358395",
+        "createdAt": "2023-12-11T13:33:04.697452Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7492756370",
+        "duration": null,
+        "path": "도구모음/Daily notes 보관함/2023.12.11.md"
+      },
+      {
+        "id": "7502625904",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2324941786",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "푸쉬업 50+15",
+        "description": "[도구모음/Daily notes 보관함/2023.12.14.md](obsidian://open?vault=Obsidian%20Vault&file=%EB%8F%84%EA%B5%AC%EB%AA%A8%EC%9D%8C/Daily%20notes%20%EB%B3%B4%EA%B4%80%ED%95%A8/2023.12.14.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47358395",
+        "createdAt": "2023-12-14T13:09:28.778940Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7502625904",
+        "duration": null,
+        "path": "도구모음/Daily notes 보관함/2023.12.14.md"
+      }
+    ],
+    "events": [
+      {
+        "event_date": "2023-12-11T12:47:15.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/4788",
+          "name": "스프링부트 습득 프로젝트",
+          "note_count": 0
+        },
+        "extra_data_id": 22363211436,
+        "id": 22276918277,
+        "initiator_id": null,
+        "object_id": "2324942261",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2023-12-11T12:35:56.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "Inbox",
+          "note_count": 0
+        },
+        "extra_data_id": 22363082846,
+        "id": 22276789681,
+        "initiator_id": null,
+        "object_id": "2324941786",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2023-12-11T13:42:29.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "2장 공부하기   ✅ 2023-12-11",
+          "note_count": 0
+        },
+        "extra_data_id": 22363907668,
+        "id": 22277614498,
+        "initiator_id": null,
+        "object_id": "7492756370",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-11T13:42:31.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "2장 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22363908162,
+        "id": 22277614991,
+        "initiator_id": null,
+        "object_id": "7492756370",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-11T13:42:30.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "2장 공부하기",
+          "last_content": "2장 공부하기   ✅ 2023-12-11",
+          "note_count": 0
+        },
+        "extra_data_id": 22363907773,
+        "id": 22277614603,
+        "initiator_id": null,
+        "object_id": "7492756370",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-11T13:42:27.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "2장 공부하기   ✅ 2023-12-11",
+          "last_content": "2장 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22363907390,
+        "id": 22277614219,
+        "initiator_id": null,
+        "object_id": "7492756370",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-11T14:50:52.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "푸쉬업 (45+30)",
+          "last_content": "푸쉬업 (45+)",
+          "note_count": 0
+        },
+        "extra_data_id": 22364863172,
+        "id": 22278569969,
+        "initiator_id": null,
+        "object_id": "7492820172",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-11T14:53:22.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "푸쉬업 (45+30)    ✅ 2023-12-11",
+          "note_count": 0
+        },
+        "extra_data_id": 22364901978,
+        "id": 22278608780,
+        "initiator_id": null,
+        "object_id": "7492820172",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-11T14:53:01.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "푸쉬업 (45+30)    ✅ 2023-12-11",
+          "last_content": "푸쉬업 (45+30)",
+          "note_count": 0
+        },
+        "extra_data_id": 22364896979,
+        "id": 22278603773,
+        "initiator_id": null,
+        "object_id": "7492820172",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-12T14:44:59.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "푸쉬업+스쿼트 100+15 ✅ 2023-12-12",
+          "note_count": 0
+        },
+        "extra_data_id": 22377676237,
+        "id": 22291382899,
+        "initiator_id": null,
+        "object_id": "7496503272",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-12T14:45:02.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "푸쉬업+스쿼트 100+15  ✅ 2023-12-12",
+          "last_content": "푸쉬업+스쿼트 100+15 ✅ 2023-12-12",
+          "note_count": 0
+        },
+        "extra_data_id": 22377676594,
+        "id": 22291383257,
+        "initiator_id": null,
+        "object_id": "7496503272",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-13T04:41:10.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "푸쉬업+스쿼트 15+/",
+          "due_date": "2023-12-12T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 22384434178,
+        "id": 22298140799,
+        "initiator_id": null,
+        "object_id": "7498227655",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-13T07:32:47.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "푸쉬업+스쿼트 15+15+ /",
+          "last_content": "푸쉬업+스쿼트 15+/",
+          "note_count": 0
+        },
+        "extra_data_id": 22385507149,
+        "id": 22299213768,
+        "initiator_id": null,
+        "object_id": "7498227655",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-13T15:32:46.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "푸쉬업+스쿼트 15+15+20 /    ✅ 2023-12-14",
+          "note_count": 0
+        },
+        "extra_data_id": 22390292688,
+        "id": 22303999239,
+        "initiator_id": null,
+        "object_id": "7498227655",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-13T15:32:50.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "푸쉬업+스쿼트 15+15+20 /    ✅ 2023-12-13",
+          "last_content": "푸쉬업+스쿼트 15+15+20 /    ✅ 2023-12-14",
+          "note_count": 0
+        },
+        "extra_data_id": 22390293257,
+        "id": 22303999813,
+        "initiator_id": null,
+        "object_id": "7498227655",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-13T15:32:45.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "푸쉬업+스쿼트 15+15+20 /    ✅ 2023-12-14",
+          "last_content": "푸쉬업+스쿼트 15+15+ /",
+          "note_count": 0
+        },
+        "extra_data_id": 22390292377,
+        "id": 22303998937,
+        "initiator_id": null,
+        "object_id": "7498227655",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-13T16:20:06.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "2장 공부하기     ✅ 2023-12-14",
+          "note_count": 0
+        },
+        "extra_data_id": 22390841421,
+        "id": 22304547957,
+        "initiator_id": null,
+        "object_id": "7492756370",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      },
+      {
+        "event_date": "2023-12-13T16:20:05.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "2장 공부하기     ✅ 2023-12-14",
+          "last_content": "2장 공부하기",
+          "note_count": 0
+        },
+        "extra_data_id": 22390841368,
+        "id": 22304547903,
+        "initiator_id": null,
+        "object_id": "7492756370",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2324941786"
+      }
+    ]
+  },
+  "fileMetadata": {
+    "개발 공부/23.12.11 이거왜안깔림.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "도구모음/Daily notes 보관함/Daily Notes Template.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "도구모음/Daily notes 보관함/2023.12.11.md": {
+      "todoistTasks": [
+        "7492756370",
+        "7492820172"
+      ],
+      "todoistCount": 2
+    },
+    "도구모음/Daily notes 보관함/2023.12.12.md": {
+      "todoistTasks": [
+        "7496503272"
+      ],
+      "todoistCount": 1
+    },
+    "도구모음/Daily notes 보관함/23.12.10 자바 이해.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "옵시디언 사용법을 익혀보는 시간/알아낸 사실들.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "도구모음/Daily notes 보관함/2023.12.13.md": {
+      "todoistTasks": [
+        "7498227655"
+      ],
+      "todoistCount": 1
+    },
+    "도구모음/Daily notes 보관함/2023.12.14.md": {
+      "todoistTasks": [
+        "7502625904"
+      ],
+      "todoistCount": 1
+    },
+    "일상/취준경험 아카이브/싸피 11기 지원 경험.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "일상/취준경험 아카이브/SSAFY 11기/싸피 11기 면접 경험.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "일상/취준경험 아카이브/시험 일정들.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "일상/2023 올해 한것.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "개발 공부/스프링부트 관련/EAGLE부터봐라.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "개발 공부/스프링부트 관련/어노테이션 정리.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "개발 공부/스프링부트 관련/타임라인.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "개발 공부/스프링부트 관련/타임리프 정리.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "개발 공부/파이썬 공부/파이썬 외적인 요소.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "개발 공부/파이썬 공부/파이썬 객체지향 전까지.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "개발 공부/파이썬 공부/파이썬 객체지향.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "개발 공부/파이썬 공부/파이썬 공부일지.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "개발 공부/자바 공부/자바 공부1.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "개발 외 공부/영어 공부/필러.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "개발 공부/C++ 공부/C++ 240106.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "AlgorithmStudy/백준 단계별로 풀어보기/단계별로 풀어보기.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "도구모음/템플릿 보관함/백준 스터디 해설 템플릿.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    },
+    "백준 단계별로 풀어보기/단계별로 풀어보기.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    }
+  },
+  "enableFullVaultSync": true,
+  "statistics": {},
+  "debugMode": false,
+  "todoistAPIToken": "20651a0df8daff587e632ea2a9ebffa91447a153"
+}
