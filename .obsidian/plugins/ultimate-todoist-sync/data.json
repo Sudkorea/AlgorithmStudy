@@ -573,6 +573,10 @@
     "Baekjoon/단계별로 풀어보기.md": {
       "todoistTasks": [],
       "todoistCount": 0
+    },
+    "Template/(문제 번호).md": {
+      "todoistTasks": [],
+      "todoistCount": 0
     }
   },
   "enableFullVaultSync": true,
