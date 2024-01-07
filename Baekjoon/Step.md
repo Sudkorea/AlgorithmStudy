@@ -7,7 +7,7 @@ aliases:
 ---
 # 1. 입출력과 사칙연산
 
-| 문제 번호 및 제출 코드 | 문제 제목 |
+| 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
 | [2557](Collection/2557.md) | [Hello World](https://www.acmicpc.net/problem/2557)<br> |
 | [1000](1000.md) | [A+B](https://www.acmicpc.net/problem/1000) |
@@ -22,6 +22,7 @@ aliases:
 | [11382](Collection/11382.md) | [꼬마 정민](https://www.acmicpc.net/problem/11382) |
 | [10171](Collection/10171.md) | [고양이](https://www.acmicpc.net/problem/10171) |
 | [10172](Collection/10172.md) | [개](https://www.acmicpc.net/problem/10172) |
+|  |  |
 |  |  |
 
 ---

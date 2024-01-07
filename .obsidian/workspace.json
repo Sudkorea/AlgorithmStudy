@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon/Collection/10926.md",
+                "file": "Template/백준템플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon/Collection/10926.md",
+                "file": "Template/백준템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon/Collection/10926.md",
+                "file": "Template/백준템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon/Collection/10926.md"
+                "file": "Template/백준템플릿.md"
               }
             }
           },
@@ -180,12 +180,15 @@
   "active": "8cd4d983b4d95d67",
   "lastOpenFiles": [
     "Baekjoon/Step.md",
+    "Baekjoon/Collection/10430.md",
+    "Baekjoon/Collection/1001.md",
+    "Template/백준템플릿.md",
+    "Baekjoon/Collection/18108.md",
+    "Baekjoon/Collection/10926.md",
     "Baekjoon/Collection/10869.md",
     "Baekjoon/Collection/1008.md",
     "Baekjoon/Collection/10998.md",
     "Baekjoon/Collection/1000.md",
-    "Baekjoon/Collection/1001.md",
-    "Template/백준템플릿.md",
     "Baekjoon/Collection/2557.md",
     "Baekjoon/단계별로.md",
     "Baekjoon/Collection/2480.md",
@@ -205,9 +208,6 @@
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/9498.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/1330.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/10869.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/11382.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/10172.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/10998.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산",
     "AlgorithmStudy/백준 단계별로 풀어보기",
     "AlgorithmStudy",
