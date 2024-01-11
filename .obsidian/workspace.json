@@ -173,8 +173,8 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "remotely-save:Remotely Save": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "8cd4d983b4d95d67",
