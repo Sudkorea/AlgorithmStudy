@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Baekjoon/Collection/10869.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38910061c111e39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Baekjoon/Step.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,39 +190,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8cd4d983b4d95d67",
+  "active": "38910061c111e39f",
   "lastOpenFiles": [
-    "Baekjoon/Collection/10172.md",
+    "Template/표 샘플.md",
     "Baekjoon/Step.md",
-    "Baekjoon/Collection/10171.md",
-    "Baekjoon/Collection/11382.md",
-    "Baekjoon/Collection/2588.md",
     "Template/백준템플릿.md",
+    "Baekjoon/Collection/1330.md",
+    "Baekjoon/Collection/18108.md",
+    "README.md.md",
+    "Baekjoon/Collection/10869.md",
+    "Baekjoon/Collection/10430.md",
+    "Baekjoon/Collection/10172.md",
+    "Baekjoon/Collection/10171.md",
+    "Baekjoon/Collection/9498.md",
+    "Baekjoon/Collection/2884.md",
+    "Baekjoon/Collection/2753.md",
+    "Baekjoon/Collection/2588.md",
+    "Baekjoon/Collection/2557.md",
+    "Baekjoon/Collection/2525.md",
+    "Baekjoon/Collection/2480.md",
+    "Baekjoon/Collection/1008.md",
+    "Baekjoon/Collection/1001.md",
+    "Baekjoon/Collection/1000.md",
+    "Baekjoon/Collection/11382.md",
     "AlgorithmStudy/Baekjoon/Step.md",
     "AlgorithmStudy/Baekjoon",
     "AlgorithmStudy",
-    "Baekjoon/Collection/10430.md",
-    "Baekjoon/Collection/1001.md",
-    "Baekjoon/Collection/18108.md",
     "Baekjoon/Collection/10926.md",
-    "Baekjoon/Collection/10869.md",
-    "Baekjoon/Collection/1008.md",
     "Baekjoon/Collection/10998.md",
-    "Baekjoon/Collection/1000.md",
-    "Baekjoon/Collection/2557.md",
     "Baekjoon/단계별로.md",
-    "Baekjoon/Collection/2480.md",
     "Template",
     "[.md",
-    "백준 단계별로 풀어보기/입출력과 사칙연산/무제 파일.md",
-    "도구모음/템플릿 보관함/백준 스터디 해설 템플릿.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/단계별로 풀어보기.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/2557.md",
     "공부를 합시다/싸피 관련.canvas",
     "도구모음/템플릿 보관함",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/2480.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/2525.md",
-    "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산/2884.md",
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산",
     "AlgorithmStudy/백준 단계별로 풀어보기",
     "Excalidraw/AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산",
