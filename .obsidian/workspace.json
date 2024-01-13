@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon/Collection/1001.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38910061c111e39f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AlgorithmStudy/Baekjoon/Step.md",
+                "file": "Baekjoon/Step.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon/Collection/1001.md",
+                "file": "Baekjoon/Step.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon/Collection/1001.md",
+                "file": "Baekjoon/Step.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon/Collection/1001.md"
+                "file": "Baekjoon/Step.md"
               }
             }
           },
@@ -191,14 +179,14 @@
   },
   "active": "8cd4d983b4d95d67",
   "lastOpenFiles": [
-    "Baekjoon/Collection/10869.md",
-    "AlgorithmStudy/Baekjoon/Step.md",
-    "Baekjoon/Collection/1000.md",
     "Baekjoon/Collection/1001.md",
-    "AlgorithmStudy/Baekjoon",
-    "AlgorithmStudy",
     "Baekjoon/Step.md",
     "README.md",
+    "AlgorithmStudy/Baekjoon/Step.md",
+    "Baekjoon/Collection/10869.md",
+    "Baekjoon/Collection/1000.md",
+    "AlgorithmStudy/Baekjoon",
+    "AlgorithmStudy",
     "Template/표 샘플.md",
     "Template/백준템플릿.md",
     "Baekjoon/Collection/1330.md",
