@@ -1,7 +1,7 @@
 [링크](https://www.acmicpc.net/step) 
 
 ---
-# 1. 입출력과 사칙연산
+# 1. [입출력과 사칙연산](https://www.acmicpc.net/step/1)
 
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
@@ -20,7 +20,7 @@
 | [10172](Collection/10172.md) | [개](https://www.acmicpc.net/problem/10172) |
 
 ---
-# 2. 조건문
+# 2. [조건문](https://www.acmicpc.net/step/4)
 
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
@@ -34,59 +34,94 @@
 
 
 ---
-# 3. 반복
-
+# 3. [반복문](https://www.acmicpc.net/step/3)
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
-| [2739](Collection/2739) | [구구단](https://www.acmicpc.net/problem/2739)<br> |
-| [10950](Collection/10950) | [A+B - 3](https://www.acmicpc.net/problem/10950) |
-| [8393](Collection/8393) | [합](https://www.acmicpc.net/problem/8393) |
-| [25304](Collection/25304) | [영수](https://www.acmicpc.net/problem/25304) |
-| [25314](Collection/25314) | [코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314) |
-| [15552](Collection/15552) | [빠른 A+B](https://www.acmicpc.net/problem/15552) |
-| [11021](Collection/11021) | [A+B - 7](https://www.acmicpc.net/problem/11021) |
-| [11022](Collection/11022) | [A+B - 8](https://www.acmicpc.net/problem/11022)<br> |
-| [2438](Collection/2438) | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) |
-| [2439](Collection/2439) | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) |
-| [10952](Collection/10952) | [A+B - 5](https://www.acmicpc.net/problem/10952) |
-| [10951](Collection/10951) | [A+B - 4](https://www.acmicpc.net/problem/10951) |
+| [2739](Collection/2739.md) | [구구단](https://www.acmicpc.net/problem/2739)<br> |
+| [10950](Collection/10950.md) | [A+B - 3](https://www.acmicpc.net/problem/10950) |
+| [8393](Collection/8393.md) | [합](https://www.acmicpc.net/problem/8393) |
+| [25304](Collection/25304.md) | [영수](https://www.acmicpc.net/problem/25304) |
+| [25314](Collection/25314.md) | [코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314) |
+| [15552](Collection/15552.md) | [빠른 A+B](https://www.acmicpc.net/problem/15552) |
+| [11021](Collection/11021.md) | [A+B - 7](https://www.acmicpc.net/problem/11021) |
+| [11022](Collection/11022.md) | [A+B - 8](https://www.acmicpc.net/problem/11022)<br> |
+| [2438](Collection/2438.md) | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) |
+| [2439](Collection/2439.md) | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) |
+| [10952](Collection/10952.md) | [A+B - 5](https://www.acmicpc.net/problem/10952) |
+| [10951](Collection/10951.md) | [A+B - 4](https://www.acmicpc.net/problem/10951) |
 
 ---
 
-# 4. 1차원 배열
+# 4. [1차원 배열](https://www.acmicpc.net/step/6)
 
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
-| [](Collection/) | [](https://www.acmicpc.net/problem/)<br> |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-| [](Collection/) | [](https://www.acmicpc.net/problem/)<br> |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-| [](Collection/) | [](https://www.acmicpc.net/problem/) |
-|  |  |
+| [10807](Collection/10807.md) | [개수 세기](https://www.acmicpc.net/problem/10807) |
+| [10871](Collection/10871.md) | [X보다 작은 수](https://www.acmicpc.net/problem/10871) |
+| [10818](Collection/10818.md) | [최소, 최대](https://www.acmicpc.net/problem/10818) |
+| [2562](Collection/2562.md) | [최댓값](https://www.acmicpc.net/problem/2562) |
+| [10810](Collection/10810.md) | [공 넣기](https://www.acmicpc.net/problem/10810) |
+| [10813](Collection/10813.md) | [공 바꾸기](https://www.acmicpc.net/problem/10813) |
+| [5597](Collection/5597.md) | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) |
+| [3052](Collection/3052.md) | [나머지](https://www.acmicpc.net/problem/3052) |
+| [10811](Collection/10811.md) | [바구니 뒤집기](https://www.acmicpc.net/problem/10811) |
+| [1546](Collection/1546.md) | [평균](https://www.acmicpc.net/problem/1546) |
+
+
 
 ---
-# 5. 문자열
+# 5. [문자열](https://www.acmicpc.net/step/7)
 
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
-| [27866](Collection/27866) | [문자와 문자열](https://www.acmicpc.net/problem/27866)<br> |
-| [2743](Collection/2743) | [단어 길이 재기](https://www.acmicpc.net/problem/2743) |
-| [9086](Collection/9086) | [문자열](https://www.acmicpc.net/problem/9086) |
-| [11654](Collection/11654) | [아스키 코드](https://www.acmicpc.net/problem/11654) |
-| [11720](Collection/11720) | [숫자의 합](https://www.acmicpc.net/problem/11720) |
-| [10809](Collection/10809) | [알파벳 찾기](https://www.acmicpc.net/problem/10809) |
-| [2675](Collection/2675) | [문자열 반복](https://www.acmicpc.net/problem/2675) |
-| [1152](1152.md) | [단어의 개수](https://www.acmicpc.net/problem/1152) |
-| [2908](2908.md) | [상수](https://www.acmicpc.net/problem/2908) |
-| [5622](Collection/5622) | [다이얼](https://www.acmicpc.net/problem/5622) |
-| [11718](Collection/11718) | [그대로 출력하기](https://www.acmicpc.net/problem/11718) |
+| [27866](Collection/27866.md) | [문자와 문자열](https://www.acmicpc.net/problem/27866)<br> |
+| [2743](Collection/2743.md) | [단어 길이 재기](https://www.acmicpc.net/problem/2743) |
+| [9086](Collection/9086.md) | [문자열](https://www.acmicpc.net/problem/9086) |
+| [11654](Collection/11654.md) | [아스키 코드](https://www.acmicpc.net/problem/11654) |
+| [11720](Collection/11720.md) | [숫자의 합](https://www.acmicpc.net/problem/11720) |
+| [10809](Collection/10809.md) | [알파벳 찾기](https://www.acmicpc.net/problem/10809) |
+| [2675](Collection/2675.md) | [문자열 반복](https://www.acmicpc.net/problem/2675) |
+| [1152](Collection/1152.md) | [단어의 개수](https://www.acmicpc.net/problem/1152) |
+| [2908](Collection/2908.md) | [상수](https://www.acmicpc.net/problem/2908) |
+| [5622](Collection/5622.md) | [다이얼](https://www.acmicpc.net/problem/5622) |
+| [11718](Collection/11718.md) | [그대로 출력하기](https://www.acmicpc.net/problem/11718) |
 
+---
+# 6. [심화 1](https://www.acmicpc.net/step/52)
+
+| 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
+| ---- | ---- |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+
+---
+# 7. [2차원 배열](https://www.acmicpc.net/step/2)
+
+| 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
+| ---- | ---- |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |
+| [](Collection/) |  |

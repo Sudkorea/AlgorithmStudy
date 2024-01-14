@@ -1,7 +1,8 @@
 {
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "C:\\Users\\findu\\iCloudDrive\\iCloud~md~obsidian\\Linus Kim",
   "attachmentFolderPath": "/",
   "trashOption": "system",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }
