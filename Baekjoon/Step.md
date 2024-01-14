@@ -85,8 +85,8 @@
 | [11720](Collection/11720) | [숫자의 합](https://www.acmicpc.net/problem/11720) |
 | [10809](Collection/10809) | [알파벳 찾기](https://www.acmicpc.net/problem/10809) |
 | [2675](Collection/2675) | [문자열 반복](https://www.acmicpc.net/problem/2675) |
-| [1152](Collection/1152) | [단어의 개수](https://www.acmicpc.net/problem/1152) |
-| [2908](Collection/2908) | [상수](https://www.acmicpc.net/problem/2908) |
+| [1152](1152.md) | [단어의 개수](https://www.acmicpc.net/problem/1152) |
+| [2908](2908.md) | [상수](https://www.acmicpc.net/problem/2908) |
 | [5622](Collection/5622) | [다이얼](https://www.acmicpc.net/problem/5622) |
 | [11718](Collection/11718) | [그대로 출력하기](https://www.acmicpc.net/problem/11718) |
 

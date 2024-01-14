@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection/1152.md",
+                "file": "Baekjoon/Collection/2908.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/1152.md",
+                "file": "Baekjoon/Collection/2908.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/1152.md",
+                "file": "Baekjoon/Collection/2908.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/1152.md"
+                "file": "Baekjoon/Collection/2908.md"
               }
             }
           },
@@ -180,7 +180,8 @@
   "active": "8cd4d983b4d95d67",
   "lastOpenFiles": [
     "Baekjoon/Step.md",
-    "Collection/1152.md",
+    "Baekjoon/Collection/1152.md",
+    "Baekjoon/Collection/2908.md",
     "Collection",
     "Template/표 샘플.md",
     "Baekjoon/Collection/1001.md",
@@ -207,7 +208,6 @@
     "Baekjoon/Collection/1008.md",
     "Baekjoon/Collection/11382.md",
     "Baekjoon/Collection/10926.md",
-    "Baekjoon/Collection/10998.md",
     "Template",
     "공부를 합시다/싸피 관련.canvas",
     "도구모음/템플릿 보관함",
