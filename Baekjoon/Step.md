@@ -71,7 +71,7 @@
 
 ---
 # 5. [문자열](https://www.acmicpc.net/step/7)
-
+ 
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
 | [27866](Collection/27866.md) | [문자와 문자열](https://www.acmicpc.net/problem/27866)<br> |
@@ -106,17 +106,8 @@
 
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
+| [2738](Collection/2738.md) | [행렬 덧셈](https://www.acmicpc.net/problem/2738) |
+| [2566](Collection/2566.md) | [최댓값](https://www.acmicpc.net/problem/2566) |
+| [10798](Collection/10798.md) | [세로읽기](https://www.acmicpc.net/problem/10798) |
+| [2563](Collection/2563.md) | [색종이](https://www.acmicpc.net/problem/2563) |
+
