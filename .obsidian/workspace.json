@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon/Step.md",
+                "file": "Baekjoon/Collection/2908.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon/Step.md",
+                "file": "Baekjoon/Collection/2908.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon/Step.md",
+                "file": "Baekjoon/Collection/2908.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon/Step.md"
+                "file": "Baekjoon/Collection/2908.md"
               }
             }
           },
@@ -180,10 +180,11 @@
   },
   "active": "8d58713577782e86",
   "lastOpenFiles": [
+    "공부하며 알아간 것들 정리/C++.md",
+    "Baekjoon/Step.md",
     "Baekjoon/Collection/2563.md",
     "Baekjoon/Collection/2941.md",
     "Baekjoon/Collection/2738.md",
-    "Baekjoon/Step.md",
     "Baekjoon/Collection/10798.md",
     "Template/백준템플릿.md",
     "Baekjoon/Collection/2566.md",
@@ -206,7 +207,6 @@
     "Baekjoon/Collection/10871.md",
     "Baekjoon/Collection/10807.md",
     "README.md",
-    "Baekjoon/Collection/10951.md",
     "공부하며 알아간 것들 정리",
     "AlgorithmStudy/Baekjoon",
     "AlgorithmStudy",
