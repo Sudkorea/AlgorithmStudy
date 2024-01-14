@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon/Step.md",
+                "file": "Collection/1152.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon/Step.md",
+                "file": "Collection/1152.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon/Step.md",
+                "file": "Collection/1152.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon/Step.md"
+                "file": "Collection/1152.md"
               }
             }
           },
@@ -179,15 +179,17 @@
   },
   "active": "8cd4d983b4d95d67",
   "lastOpenFiles": [
-    "Baekjoon/Collection/1001.md",
     "Baekjoon/Step.md",
+    "Collection/1152.md",
+    "Collection",
+    "Template/표 샘플.md",
+    "Baekjoon/Collection/1001.md",
     "README.md",
     "AlgorithmStudy/Baekjoon/Step.md",
     "Baekjoon/Collection/10869.md",
     "Baekjoon/Collection/1000.md",
     "AlgorithmStudy/Baekjoon",
     "AlgorithmStudy",
-    "Template/표 샘플.md",
     "Template/백준템플릿.md",
     "Baekjoon/Collection/1330.md",
     "Baekjoon/Collection/18108.md",
@@ -214,7 +216,6 @@
     "Excalidraw/AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산",
     "Excalidraw/AlgorithmStudy/백준 단계별로 풀어보기",
     "Excalidraw/AlgorithmStudy",
-    "AlgorithmStudy/백준 단계별로 풀어보기/무제 폴더/무제 폴더",
     "공부를 합시다/스프링부트 항해일지.canvas",
     "개발 공부/자바 공부/Pasted image 20240102004059.png",
     "개발 공부/스프링부트 관련/Pasted image 20231213001740.png",
