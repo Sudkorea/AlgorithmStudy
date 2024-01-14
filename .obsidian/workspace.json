@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Baekjoon/Step.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc7507e0e4d76944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Baekjoon/Collection/5622.md",
                 "mode": "source",
                 "backlinks": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon/Collection/5622.md",
+                "file": "Baekjoon/Step.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon/Collection/5622.md",
+                "file": "Baekjoon/Step.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon/Collection/5622.md"
+                "file": "Baekjoon/Step.md"
               }
             }
           },
@@ -180,33 +193,33 @@
   },
   "active": "8d58713577782e86",
   "lastOpenFiles": [
+    "Baekjoon/Collection/2444.md",
+    "Baekjoon/Collection/25314.md",
+    "Baekjoon/Collection/5622.md",
     "Baekjoon/Step.md",
+    "Baekjoon/Collection/3003.md",
+    "Baekjoon/Collection/25083.md",
+    "Template/백준템플릿.md",
+    "Baekjoon/Collection/25206.md",
+    "Baekjoon/Collection/1316.md",
+    "Baekjoon/Collection/2941.md",
+    "Baekjoon/Collection/1157.md",
+    "Baekjoon/Collection/10988.md",
+    "Collection",
+    "Baekjoon/Collection/11718.md",
+    "Baekjoon/Collection/1152.md",
     "README.md",
     "공부하며 알아간 것들 정리/C++.md",
     "Baekjoon/Collection/2908.md",
-    "Baekjoon/Collection/5622.md",
-    "Baekjoon/Collection/1152.md",
-    "Template/백준템플릿.md",
     "Template/표 샘플.md",
     "Baekjoon/Collection/11382.md",
-    "Baekjoon/Collection/11718.md",
     "Baekjoon/Collection/15552.md",
     "Baekjoon/Collection/25304.md",
-    "Baekjoon/Collection/25314.md",
     "Baekjoon/Collection/27866.md",
     "Baekjoon/Collection/11720.md",
     "Baekjoon/Collection/2675.md",
     "Baekjoon/Collection/10809.md",
     "Baekjoon/Collection/11654.md",
-    "Baekjoon/Collection/9086.md",
-    "Baekjoon/Collection/2743.md",
-    "Baekjoon/Collection/1546.md",
-    "Baekjoon/Collection/10811.md",
-    "Baekjoon/Collection/3052.md",
-    "Baekjoon/Collection/5597.md",
-    "Baekjoon/Collection/10813.md",
-    "Baekjoon/Collection/10810.md",
-    "Collection",
     "공부하며 알아간 것들 정리",
     "AlgorithmStudy/Baekjoon",
     "AlgorithmStudy",

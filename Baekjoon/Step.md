@@ -91,20 +91,15 @@
 
 | 문제 번호 및 제출 코드 | 문제 제목 및 링크 |
 | ---- | ---- |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
-| [](Collection/) |  |
+| [25083](Collection/25083.md) | [새싹](https://www.acmicpc.net/problem/25083) |
+| [3003](Collection/3003.md) | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) |
+| [2444](Collection/2444.md) | [별 찍기 - 7](https://www.acmicpc.net/problem/2444) |
+| [10988](Collection/10988.md) | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) |
+| [1157](Collection/1157.md) | [단어 공부](https://www.acmicpc.net/problem/1157) |
+| [2941](Collection/2941.md) | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) |
+| [1316](Collection/1316.md) | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) |
+| [25206](Collection/25206.md) | [너의 평점은](https://www.acmicpc.net/problem/25206) |
+
 
 ---
 # 7. [2차원 배열](https://www.acmicpc.net/step/2)
