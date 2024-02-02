@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon/추천받은 문제 리스트.md",
+                "file": "공부하며 알아간 것들 정리/CLion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon/추천받은 문제 리스트.md",
+                "file": "공부하며 알아간 것들 정리/CLion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon/추천받은 문제 리스트.md",
+                "file": "공부하며 알아간 것들 정리/CLion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon/추천받은 문제 리스트.md"
+                "file": "공부하며 알아간 것들 정리/CLion.md"
               }
             }
           },
@@ -180,10 +180,12 @@
   },
   "active": "8d58713577782e86",
   "lastOpenFiles": [
+    "공부하며 알아간 것들 정리/C++.md",
+    "공부하며 알아간 것들 정리/CLion.md",
+    "Baekjoon/추천받은 문제 리스트.md",
     "Baekjoon/Collection/1152.md",
     "Baekjoon/Step.md",
     "Baekjoon/Collection/2908.md",
-    "공부하며 알아간 것들 정리/C++.md",
     "Baekjoon/Collection/2563.md",
     "Baekjoon/Collection/2941.md",
     "Baekjoon/Collection/2738.md",
@@ -205,8 +207,6 @@
     "Baekjoon/Collection/10810.md",
     "Baekjoon/Collection/10813.md",
     "Baekjoon/Collection/2562.md",
-    "Baekjoon/Collection/10818.md",
-    "Baekjoon/Collection/10871.md",
     "공부하며 알아간 것들 정리",
     "AlgorithmStudy/Baekjoon",
     "AlgorithmStudy",
