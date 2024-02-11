@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon/Collection/2231.md",
+                "file": "Baekjoon/Collection/17206.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon/Collection/2231.md",
+                "file": "Baekjoon/Collection/17206.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon/Collection/2231.md",
+                "file": "Baekjoon/Collection/17206.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon/Collection/2231.md"
+                "file": "Baekjoon/Collection/17206.md"
               }
             }
           },
@@ -181,6 +181,10 @@
   "active": "8d58713577782e86",
   "lastOpenFiles": [
     "Baekjoon/SSAFY_11th_study.md",
+    "README.md",
+    "Baekjoon/SS.md",
+    "baekjoon/SS.md",
+    "Baekjoon/Collection/2231.md",
     "Baekjoon/Collection/17206.md",
     "Baekjoon/Collection/1977.md",
     "Baekjoon/Collection/2399.md",
@@ -196,8 +200,6 @@
     "Baekjoon/Collection/2292.md",
     "Template/백준템플릿.md",
     "Template/표 샘플.md",
-    "README.md",
-    "Baekjoon/Collection/2231.md",
     "Baekjoon/Step.md",
     "Collection",
     "Baekjoon/추천받은 문제 리스트.md",
@@ -205,8 +207,6 @@
     "공부하며 알아간 것들 정리/CLion.md",
     "Baekjoon/Collection/1152.md",
     "Baekjoon/Collection/2908.md",
-    "Baekjoon/Collection/2563.md",
-    "Baekjoon/Collection/2941.md",
     "공부하며 알아간 것들 정리",
     "AlgorithmStudy/Baekjoon",
     "AlgorithmStudy",
