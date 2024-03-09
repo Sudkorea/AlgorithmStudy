@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon/Collection/17206.md",
+                "file": "Baekjoon/Programmers/150368.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon/Collection/17206.md",
+                "file": "Baekjoon/Programmers/150368.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon/Collection/17206.md",
+                "file": "Baekjoon/Programmers/150368.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon/Collection/17206.md"
+                "file": "Baekjoon/Programmers/150368.md"
               }
             }
           },
@@ -181,11 +181,13 @@
   "active": "8d58713577782e86",
   "lastOpenFiles": [
     "Baekjoon/SSAFY_11th_study.md",
+    "Baekjoon/Programmers/150368.md",
+    "Baekjoon/Programmers",
+    "Baekjoon/Collection/17206.md",
     "README.md",
     "Baekjoon/SS.md",
     "baekjoon/SS.md",
     "Baekjoon/Collection/2231.md",
-    "Baekjoon/Collection/17206.md",
     "Baekjoon/Collection/1977.md",
     "Baekjoon/Collection/2399.md",
     "Baekjoon/Collection/1037.md",
@@ -206,7 +208,6 @@
     "공부하며 알아간 것들 정리/C++.md",
     "공부하며 알아간 것들 정리/CLion.md",
     "Baekjoon/Collection/1152.md",
-    "Baekjoon/Collection/2908.md",
     "공부하며 알아간 것들 정리",
     "AlgorithmStudy/Baekjoon",
     "AlgorithmStudy",
@@ -216,7 +217,6 @@
     "AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산",
     "AlgorithmStudy/백준 단계별로 풀어보기",
     "Excalidraw/AlgorithmStudy/백준 단계별로 풀어보기/입출력과 사칙연산",
-    "Excalidraw/AlgorithmStudy/백준 단계별로 풀어보기",
     "공부를 합시다/스프링부트 항해일지.canvas",
     "개발 공부/자바 공부/Pasted image 20240102004059.png",
     "개발 공부/스프링부트 관련/Pasted image 20231213001740.png",
