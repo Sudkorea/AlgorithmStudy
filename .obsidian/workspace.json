@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon/Programmers/72412.md",
+                "file": "Baekjoon/Collection/1806.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon/Programmers/72412.md",
+                "file": "Baekjoon/Collection/1806.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon/Programmers/72412.md",
+                "file": "Baekjoon/Collection/1806.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon/Programmers/72412.md"
+                "file": "Baekjoon/Collection/1806.md"
               }
             }
           },
@@ -191,15 +191,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8d58713577782e86",
+  "active": "77f17ff8f170188d",
   "lastOpenFiles": [
-    "Baekjoon/Programmers/42860.md",
+    "Baekjoon/SSAFY_11th_study.md",
+    "Baekjoon/Collection/19638.md",
+    "Baekjoon/Collection/7662.md",
+    "Baekjoon/Collection/11000.md",
+    "Baekjoon/Collection/1946.md",
+    "Baekjoon/Collection/2003.md",
+    "Baekjoon/Collection/1806.md",
+    "Baekjoon/Collection/11726.md",
+    "Baekjoon/Collection/1904.md",
+    "Collection",
+    "Template/표 샘플.md",
     "Baekjoon/Programmers/72412.md",
+    "Baekjoon/Programmers/42860.md",
     "Baekjoon/Programmers/150368.md",
     "Baekjoon/Programmers/92342.md",
     "Template/백준템플릿.md",
-    "Template/표 샘플.md",
-    "Baekjoon/SSAFY_11th_study.md",
     "Baekjoon/Programmers",
     "Baekjoon/Collection/17206.md",
     "README.md",
@@ -212,15 +221,6 @@
     "Baekjoon/Collection/1236.md",
     "Baekjoon/Collection/2609.md",
     "Baekjoon/Collection/2702.md",
-    "Baekjoon/Collection/1268.md",
-    "Baekjoon/Collection/2851.md",
-    "Baekjoon/Collection/3040.md",
-    "Baekjoon/Collection/2747.md",
-    "Baekjoon/Collection/1681.md",
-    "Baekjoon/Collection/2292.md",
-    "Baekjoon/Step.md",
-    "Collection",
-    "Baekjoon/추천받은 문제 리스트.md",
     "공부하며 알아간 것들 정리",
     "AlgorithmStudy/Baekjoon",
     "AlgorithmStudy",
