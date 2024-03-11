@@ -22,6 +22,28 @@
 
 2주차 문제
 
+
+| 문제 번호 및 제출 코드             | 문제 제목 및 링크                                        |
+| ------------------------- | ------------------------------------------------- |
+| [6198](Collection/6198.md)   | [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198) |
+| [2304](Collection/2304.md)   | [창고 다각형](https://www.acmicpc.net/problem/2304)    |
+| [2504](Collection/2504.md)   | [괄호의 값](https://www.acmicpc.net/problem/2504)     |
+| [9012](Collection/9012.md)   | [괄호](https://www.acmicpc.net/problem/9012)        |
+| [2251](Collection/2251.md)   | [물통](https://www.acmicpc.net/problem/2251)        |
+| [2178](Collection/2178.md)   | [미로 탐색](https://www.acmicpc.net/problem/2178)     |
+| [15645](Collection/15645.md) | [내려가기 2](https://www.acmicpc.net/problem/15645)   |
+| [2096](Collection/2096.md)   | [내려가기](https://www.acmicpc.net/problem/2096)      |
+
+
+
+
+
+
+
+---
+
+3주차 문제
+
 | 문제 번호 및 제출 코드             | 문제 제목 및 링크                                           |
 | ------------------------- | ---------------------------------------------------- |
 | [1904](Collection/1904.md)   | [01타일](https://www.acmicpc.net/problem/1904)         |
